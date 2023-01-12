@@ -1,2 +1,2 @@
 # fw-theme-plain
-Real Simple Website Theme
+Real Plain -- ForceWebsite Theme
